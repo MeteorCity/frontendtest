@@ -1,6 +1,7 @@
 <script setup>
   import { ref } from 'vue';
 
+
   const baseSizes = { 
     boardWidth: 800,
     boardHeight: 800,
